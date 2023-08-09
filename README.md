@@ -106,7 +106,7 @@ npm run preview
 
 ## Reference
 - Design
-  - [og tag image]([https://www.freepik.com/free-vector/gradient-rocket-background_4401989.htm#query=gradient-rocket-background](https://img.freepik.com/premium-vector/water-concept-set-flat-design-infographics-elements-colorful-collection-square-icons-drinking-portable-source-drop-cycle-well-bath-swimming-pool-voyage-rainfall-fire-fighting-crop_89615-678.jpg?w=2000))
+  - [og tag image](https://img.freepik.com/premium-vector/water-concept-set-flat-design-infographics-elements-colorful-collection-square-icons-drinking-portable-source-drop-cycle-well-bath-swimming-pool-voyage-rainfall-fire-fighting-crop_89615-678.jpg?w=2000)
   - [Well Image](https://www.flaticon.com/free-icon/buildings_842868?term=well&page=1&position=41&page=1&position=41&related_id=842868&origin=search)
 - Development
   - 如何解決Node 17(含)以上，執行Vue2會出現ERR_OSSL_EVP_UNSUPPORTED:
