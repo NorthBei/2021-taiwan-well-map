@@ -4,6 +4,7 @@ module.exports = {
     node: true
   },
   extends: [
+    'plugin:json/recommended',
     'plugin:vue/essential',
     '@vue/standard'
   ],

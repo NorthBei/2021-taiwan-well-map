@@ -1,0 +1,1723 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>臺中市新建建築工程工地地下水資源再利用</name>
+    <description/>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-labelson">
+      <IconStyle>
+        <color>ff0051e6</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+    </Style>
+    <Folder>
+      <name>水質良好工地</name>
+      <Placemark>
+        <name>大里區德芳南路/中興路口</name>
+        <address>台中市大里區中興路二段89號</address>
+        <description><![CDATA[序號: 2<br>建照號碼: 109-232<br>承造人: 沅昇營造<br>工地聯絡人: 鄭先生 0963-041822<br>抽水迄日: 110.5.31<br>工地預估每日可提供之用水量(CMD): 40000<br>水質檢驗良好: 良好<br>工地旁地址: 台中市大里區中興路二段89號]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>2.0</value>
+          </Data>
+          <Data name="建照號碼">
+            <value>109-232</value>
+          </Data>
+          <Data name="承造人">
+            <value>沅昇營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>鄭先生 0963-041822</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.5.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>40000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>良好</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市大里區中興路二段89號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>大里區永隆路/東榮路口</name>
+        <address>台中市大里區永隆路289號</address>
+        <description><![CDATA[序號: 3<br>建照號碼: 109-1470<br>承造人: 呈峰營造<br>工地聯絡人: 呂先生 0988-503322<br>抽水迄日: 110.11.15<br>工地預估每日可提供之用水量(CMD): 5000<br>水質檢驗良好: 良好<br>工地旁地址: 台中市大里區永隆路289號]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>3.0</value>
+          </Data>
+          <Data name="建照號碼">
+            <value>109-1470</value>
+          </Data>
+          <Data name="承造人">
+            <value>呈峰營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>呂先生 0988-503322</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.11.15</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>5000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>良好</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市大里區永隆路289號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>大里區德芳路2段137號旁</name>
+        <address>大里區德芳路2段137號</address>
+        <description><![CDATA[序號: 4<br>建照號碼: 109-392<br>承造人: 宥舜工程<br>工地聯絡人: 湯先生 0952-110711<br>抽水迄日: 110.11.30<br>工地預估每日可提供之用水量(CMD): 20000<br>水質檢驗良好: 良好<br>工地旁地址: 大里區德芳路2段137號]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>4.0</value>
+          </Data>
+          <Data name="建照號碼">
+            <value>109-392</value>
+          </Data>
+          <Data name="承造人">
+            <value>宥舜工程</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>湯先生 0952-110711</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.11.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>20000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>良好</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>大里區德芳路2段137號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>中區民族路/仁愛街口</name>
+        <address>台中市中區民族路217號</address>
+        <description><![CDATA[序號: 7<br>建照號碼: 109-824<br>承造人: 坤辰營造<br>工地聯絡人: 蔡先生 0923-655372<br>抽水迄日: 110.8.21<br>工地預估每日可提供之用水量(CMD): 10000<br>水質檢驗良好: 良好<br>工地旁地址: 台中市中區民族路217號]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>7.0</value>
+          </Data>
+          <Data name="建照號碼">
+            <value>109-824</value>
+          </Data>
+          <Data name="承造人">
+            <value>坤辰營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>蔡先生 0923-655372</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.8.21</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>10000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>良好</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市中區民族路217號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>北區臺灣大道2段/館前路口</name>
+        <address>台中市北區館前路41-25</address>
+        <description><![CDATA[序號: 8<br>建照號碼: 106-2647<br>承造人: 大億營造<br>工地聯絡人: 呂先生 0935-690311<br>抽水迄日: 110.5.31<br>工地預估每日可提供之用水量(CMD): 45000<br>水質檢驗良好: 良好<br>工地旁地址: 台中市北區館前路41-25]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>8.0</value>
+          </Data>
+          <Data name="建照號碼">
+            <value>106-2647</value>
+          </Data>
+          <Data name="承造人">
+            <value>大億營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>呂先生 0935-690311</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.5.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>45000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>良好</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市北區館前路41-25</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>西屯區櫻城1街/櫻花路74巷</name>
+        <address>台中市西屯區櫻城一街79-61</address>
+        <description><![CDATA[序號: 13<br>建照號碼: 109-318<br>承造人: 坤聯旺營造<br>工地聯絡人: 張先生 0922-868210<br>抽水迄日: 110.9.30<br>工地預估每日可提供之用水量(CMD): 50000<br>水質檢驗良好: 良好<br>工地旁地址: 台中市西屯區櫻城一街79-61]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>13.0</value>
+          </Data>
+          <Data name="建照號碼">
+            <value>109-318</value>
+          </Data>
+          <Data name="承造人">
+            <value>坤聯旺營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>張先生 0922-868210</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.9.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>50000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>良好</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市西屯區櫻城一街79-61</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>南區復興路3段/新榮街口</name>
+        <address>台中市南區新榮街63號</address>
+        <description><![CDATA[序號: 24<br>建照號碼: 108-1803<br>承造人: 總太營造<br>工地聯絡人: 廖先生 0920-336513<br>抽水迄日: 110.6.30<br>工地預估每日可提供之用水量(CMD): 30000<br>水質檢驗良好: 良好<br>工地旁地址: 台中市南區新榮街63號]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>24.0</value>
+          </Data>
+          <Data name="建照號碼">
+            <value>108-1803</value>
+          </Data>
+          <Data name="承造人">
+            <value>總太營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>廖先生 0920-336513</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.6.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>30000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>良好</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市南區新榮街63號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>西區館前路/英才路470巷口</name>
+        <address>台中市西區英才路470巷21a號</address>
+        <description><![CDATA[序號: 38<br>建照號碼: 107-2979<br>承造人: 大陸工程<br>工地聯絡人: 王先生 0910-598449<br>抽水迄日: 110.10.31<br>工地預估每日可提供之用水量(CMD): 30000<br>水質檢驗良好: 良好<br>工地旁地址: 台中市西區英才路470巷21a號]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>38.0</value>
+          </Data>
+          <Data name="建照號碼">
+            <value>107-2979</value>
+          </Data>
+          <Data name="承造人">
+            <value>大陸工程</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>王先生 0910-598449</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.10.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>30000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>良好</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市西區英才路470巷21a號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>豐原區永康路280號</name>
+        <address>豐原區永康路280號</address>
+        <description><![CDATA[序號: 40<br>建照號碼: 108-1950<br>承造人: 興亞營造<br>工地聯絡人: 翁先生 0972-995921<br>抽水迄日: 110.8.31<br>工地預估每日可提供之用水量(CMD): 16000<br>水質檢驗良好: 良好<br>工地旁地址: 豐原區永康路280號]]></description>
+        <styleUrl>#icon-1899-E65100-labelson</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>40.0</value>
+          </Data>
+          <Data name="建照號碼">
+            <value>108-1950</value>
+          </Data>
+          <Data name="承造人">
+            <value>興亞營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>翁先生 0972-995921</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.8.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>16000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>良好</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>豐原區永康路280號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>水質不佳</name>
+      <Placemark>
+        <name>108-2181</name>
+        <address>大里區成功路88巷36號</address>
+        <description><![CDATA[序號: 1<br>工地位置: 大里區成功路88巷36號對面<br>承造人: 德金營造<br>工地聯絡人: 陳先生 24962307<br>抽水迄日: 110.4.30<br>工地預估每日可提供之用水量(CMD): 10000<br>水質檢驗良好: 否<br>工地旁地址: 大里區成功路88巷36號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>1.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>大里區成功路88巷36號對面</value>
+          </Data>
+          <Data name="承造人">
+            <value>德金營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>陳先生 24962307</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.4.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>10000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>大里區成功路88巷36號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-1391</name>
+        <address>大里區新光路28號</address>
+        <description><![CDATA[序號: 5<br>工地位置: 大里區新光路28號<br>承造人: 聯晟營造<br>工地聯絡人: 吳先生  0975-339777<br>抽水迄日: 110.12.1<br>工地預估每日可提供之用水量(CMD): 15000<br>水質檢驗良好: 否<br>工地旁地址: 大里區新光路28號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>5.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>大里區新光路28號</value>
+          </Data>
+          <Data name="承造人">
+            <value>聯晟營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>吳先生  0975-339777</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.12.1</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>15000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>大里區新光路28號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-843</name>
+        <address>大里區明德街明德巷20號</address>
+        <description><![CDATA[序號: 6<br>工地位置: 大里區忠明南路1288巷<br>承造人: 東霙營造<br>工地聯絡人: 沈先生 0923-578587<br>抽水迄日: 110.12.31<br>工地預估每日可提供之用水量(CMD): 16000<br>水質檢驗良好: 否<br>工地旁地址: 大里區明德街明德巷20號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>6.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>大里區忠明南路1288巷</value>
+          </Data>
+          <Data name="承造人">
+            <value>東霙營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>沈先生 0923-578587</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.12.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>16000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>大里區明德街明德巷20號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-1904</name>
+        <address>台中市西屯區台灣大道三段650巷2弄11號</address>
+        <description><![CDATA[序號: 9<br>工地位置: 西屯區臺灣大道/至善路口<br>承造人: 齊裕營造<br>工地聯絡人: 賴先生 0932-521993<br>抽水迄日: 111.6.30<br>工地預估每日可提供之用水量(CMD): 50000<br>水質檢驗良好: 否<br>工地旁地址: 台中市西屯區台灣大道三段650巷2弄11號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>9.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>西屯區臺灣大道/至善路口</value>
+          </Data>
+          <Data name="承造人">
+            <value>齊裕營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>賴先生 0932-521993</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>111.6.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>50000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市西屯區台灣大道三段650巷2弄11號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-2110</name>
+        <address>台中市西屯區智惠街131巷21號</address>
+        <description><![CDATA[序號: 10<br>工地位置: 西屯區智惠街131巷<br>承造人: 東霙營造<br>工地聯絡人: 施先生 0987-969818<br>抽水迄日: 111.2.28<br>工地預估每日可提供之用水量(CMD): 16000<br>水質檢驗良好: 否<br>工地旁地址: 台中市西屯區智惠街131巷21號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>10.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>西屯區智惠街131巷</value>
+          </Data>
+          <Data name="承造人">
+            <value>東霙營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>施先生 0987-969818</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>111.2.28</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>16000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市西屯區智惠街131巷21號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>108-1864</name>
+        <address>台中市西屯區河南路二段203號</address>
+        <description><![CDATA[序號: 11<br>工地位置: 西屯區河南路/逢大路口<br>承造人: 豐興營造<br>工地聯絡人: 賴先生 0932-033520<br>抽水迄日: 110.6.30<br>工地預估每日可提供之用水量(CMD): 70000<br>水質檢驗良好: 否<br>工地旁地址: 台中市西屯區河南路二段203號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>11.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>西屯區河南路/逢大路口</value>
+          </Data>
+          <Data name="承造人">
+            <value>豐興營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>賴先生 0932-033520</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.6.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>70000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市西屯區河南路二段203號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>104-2334</name>
+        <address>台中市西屯區惠文路732</address>
+        <description><![CDATA[序號: 12<br>工地位置: 西屯區市政路/惠文路口<br>承造人: 仕明營造<br>工地聯絡人: 胡先生 0983-069964<br>抽水迄日: 110.9.30<br>工地預估每日可提供之用水量(CMD): 31000<br>水質檢驗良好: 否<br>工地旁地址: 台中市西屯區惠文路732]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>12.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>西屯區市政路/惠文路口</value>
+          </Data>
+          <Data name="承造人">
+            <value>仕明營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>胡先生 0983-069964</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.9.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>31000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市西屯區惠文路732</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>108-1004</name>
+        <address>台中市西屯區環中路三段847號</address>
+        <description><![CDATA[序號: 14<br>工地位置: 西屯區環中路3段近台灣大道<br>承造人: 齊裕營造<br>工地聯絡人: 王先生 0916-618313<br>抽水迄日: 110.8.25<br>工地預估每日可提供之用水量(CMD): 30000<br>水質檢驗良好: 否<br>工地旁地址: 台中市西屯區環中路三段847號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>14.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>西屯區環中路3段近台灣大道</value>
+          </Data>
+          <Data name="承造人">
+            <value>齊裕營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>王先生 0916-618313</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.8.25</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>30000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市西屯區環中路三段847號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>107-2235</name>
+        <address>台中市西屯區台灣大道三段796號</address>
+        <description><![CDATA[序號: 15<br>工地位置: 西屯區黎明路/台灣大道口旁<br>承造人: 崇偉營造<br>工地聯絡人: 楊先生 0932-503812<br>抽水迄日: 110.6.30<br>工地預估每日可提供之用水量(CMD): 25000<br>水質檢驗良好: 否<br>工地旁地址: 台中市西屯區台灣大道三段796號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>15.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>西屯區黎明路/台灣大道口旁</value>
+          </Data>
+          <Data name="承造人">
+            <value>崇偉營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>楊先生 0932-503812</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.6.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>25000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市西屯區台灣大道三段796號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-1417</name>
+        <address>台中市西屯區中港路三段7巷12-38</address>
+        <description><![CDATA[序號: 16<br>工地位置: 西屯區臺灣大道/729巷口<br>承造人: 金駿營造<br>工地聯絡人: 沈先生 0918-868120<br>抽水迄日: 111.7.20<br>工地預估每日可提供之用水量(CMD): 60000<br>水質檢驗良好: 否<br>工地旁地址: 台中市西屯區中港路三段7巷12-38]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>16.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>西屯區臺灣大道/729巷口</value>
+          </Data>
+          <Data name="承造人">
+            <value>金駿營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>沈先生 0918-868120</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>111.7.20</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>60000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市西屯區中港路三段7巷12-38</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-2335</name>
+        <address>台中市西屯區漢翔路2號</address>
+        <description><![CDATA[序號: 17<br>工地位置: 西屯區福星北路68巷<br>承造人: 寶信營造<br>工地聯絡人: 吳先生 0958-258658<br>抽水迄日: 110.12.31<br>工地預估每日可提供之用水量(CMD): 40000<br>水質檢驗良好: 否<br>工地旁地址: 台中市西屯區漢翔路2號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>17.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>西屯區福星北路68巷</value>
+          </Data>
+          <Data name="承造人">
+            <value>寶信營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>吳先生 0958-258658</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.12.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>40000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市西屯區漢翔路2號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-2103</name>
+        <address>台中市東區福智街37號</address>
+        <description><![CDATA[序號: 18<br>工地位置: 東區進化路23巷<br>承造人: 禾沂營造<br>工地聯絡人: 王先生 0923-917575<br>抽水迄日: 110.8.31<br>工地預估每日可提供之用水量(CMD): 11100<br>水質檢驗良好: 否<br>工地旁地址: 台中市東區福智街37號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>18.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>東區進化路23巷</value>
+          </Data>
+          <Data name="承造人">
+            <value>禾沂營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>王先生 0923-917575</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.8.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>11100.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市東區福智街37號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-1308</name>
+        <address>台中市東區136縣道528號</address>
+        <description><![CDATA[序號: 19<br>工地位置: 東區進德路/樂業二路口<br>承造人: 日商華大成<br>工地聯絡人: 李先生 0955-077838<br>抽水迄日: 111.3.31<br>工地預估每日可提供之用水量(CMD): 6000<br>水質檢驗良好: 否<br>工地旁地址: 台中市東區136縣道528號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>19.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>東區進德路/樂業二路口</value>
+          </Data>
+          <Data name="承造人">
+            <value>日商華大成</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>李先生 0955-077838</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>111.3.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>6000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市東區136縣道528號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-1822</name>
+        <address>台中市東區東光園路488</address>
+        <description><![CDATA[序號: 20<br>工地位置: 東區東光園路/東光園路450巷口<br>承造人: 大砌營造<br>工地聯絡人: 吳先生 0919-659456<br>抽水迄日: 110.08.31<br>工地預估每日可提供之用水量(CMD): 40000<br>水質檢驗良好: 否<br>工地旁地址: 台中市東區東光園路488]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>20.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>東區東光園路/東光園路450巷口</value>
+          </Data>
+          <Data name="承造人">
+            <value>大砌營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>吳先生 0919-659456</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.08.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>40000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市東區東光園路488</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-288</name>
+        <address>台中市清水區港埠路三段與號大勇路口</address>
+        <description><![CDATA[序號: 21<br>工地位置: 清水區四維東路/港都路口<br>承造人: 聯恆營造<br>工地聯絡人: 魏先生 0952-926121<br>抽水迄日: 110.12.31<br>工地預估每日可提供之用水量(CMD): 25000<br>水質檢驗良好: 否<br>工地旁地址: 台中市清水區港埠路三段與號大勇路口]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>21.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>清水區四維東路/港都路口</value>
+          </Data>
+          <Data name="承造人">
+            <value>聯恆營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>魏先生 0952-926121</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.12.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>25000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市清水區港埠路三段與號大勇路口</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-2657</name>
+        <address>台中市南區東興路與樹義一巷</address>
+        <description><![CDATA[序號: 22<br>工地位置: 南區東興路/樹義一巷口<br>承造人: 萬代福營造<br>工地聯絡人: 李先生 0917-524087<br>抽水迄日: 111.5.31<br>工地預估每日可提供之用水量(CMD): 34000<br>水質檢驗良好: 否<br>工地旁地址: 台中市南區東興路與樹義一巷]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>22.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>南區東興路/樹義一巷口</value>
+          </Data>
+          <Data name="承造人">
+            <value>萬代福營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>李先生 0917-524087</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>111.5.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>34000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市南區東興路與樹義一巷</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-1955</name>
+        <address>台中市南區建國南路一段130號</address>
+        <description><![CDATA[序號: 23<br>工地位置: 南區建國南路/德富路口<br>承造人: 薰漢營造<br>工地聯絡人: 雲先生 0931-600409<br>抽水迄日: 110.8.31<br>工地預估每日可提供之用水量(CMD): 16000<br>水質檢驗良好: 否<br>工地旁地址: 台中市南區建國南路一段130號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>23.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>南區建國南路/德富路口</value>
+          </Data>
+          <Data name="承造人">
+            <value>薰漢營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>雲先生 0931-600409</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.8.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>16000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市南區建國南路一段130號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-550</name>
+        <address>台中市南區福田一街136巷</address>
+        <description><![CDATA[序號: 25<br>工地位置: 南區福田1街/福田2街312巷<br>承造人: 龍國營造<br>工地聯絡人: 江先生 0972-882268<br>抽水迄日: 110.6.30<br>工地預估每日可提供之用水量(CMD): 24000<br>水質檢驗良好: 否<br>工地旁地址: 台中市南區福田一街136巷]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>25.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>南區福田1街/福田2街312巷</value>
+          </Data>
+          <Data name="承造人">
+            <value>龍國營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>江先生 0972-882268</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.6.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>24000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市南區福田一街136巷</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-1343</name>
+        <address>台中市南區學府路147巷21-15</address>
+        <description><![CDATA[序號: 26<br>工地位置: 南區新華街/學府路147巷口<br>承造人: 尚澤營造<br>工地聯絡人: 陳先生 0937-225754<br>抽水迄日: 110.6.30<br>工地預估每日可提供之用水量(CMD): 7000<br>水質檢驗良好: 否<br>工地旁地址: 台中市南區學府路147巷21-15]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>26.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>南區新華街/學府路147巷口</value>
+          </Data>
+          <Data name="承造人">
+            <value>尚澤營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>陳先生 0937-225754</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.6.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>7000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市南區學府路147巷21-15</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-383</name>
+        <address>台中市南屯區春安路58-70</address>
+        <description><![CDATA[序號: 27<br>工地位置: 南屯區春安路/彩虹巷口<br>承造人: 聖恩營造<br>工地聯絡人: 蕭先生 0916-096238<br>抽水迄日: 111.6.30<br>工地預估每日可提供之用水量(CMD): 8000<br>水質檢驗良好: 否<br>工地旁地址: 台中市南屯區春安路58-70]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>27.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>南屯區春安路/彩虹巷口</value>
+          </Data>
+          <Data name="承造人">
+            <value>聖恩營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>蕭先生 0916-096238</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>111.6.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>8000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市南屯區春安路58-70</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>108-269</name>
+        <address>台中市南屯區建功南九巷38號</address>
+        <description><![CDATA[序號: 28<br>工地位置: 南屯區春安路/建功路口<br>承造人: 盛傑營造<br>工地聯絡人: 賴先生 0935-676735<br>抽水迄日: 110.8.31<br>工地預估每日可提供之用水量(CMD): 5000<br>水質檢驗良好: 否<br>工地旁地址: 台中市南屯區建功南九巷38號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>28.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>南屯區春安路/建功路口</value>
+          </Data>
+          <Data name="承造人">
+            <value>盛傑營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>賴先生 0935-676735</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.8.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>5000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市南屯區建功南九巷38號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>105-1095</name>
+        <address>台中市南屯區新富五街425</address>
+        <description><![CDATA[序號: 29<br>工地位置: 南屯區新富五街近永春路口<br>承造人: 坤聯營造<br>工地聯絡人: 呂先生 0963-025104<br>抽水迄日: 110.6.30<br>工地預估每日可提供之用水量(CMD): 14000<br>水質檢驗良好: 否<br>工地旁地址: 台中市南屯區新富五街425]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>29.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>南屯區新富五街近永春路口</value>
+          </Data>
+          <Data name="承造人">
+            <value>坤聯營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>呂先生 0963-025104</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.6.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>14000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市南屯區新富五街425</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>108-1085</name>
+        <address>台中市南屯區文心路一段23-5號</address>
+        <description><![CDATA[序號: 30<br>工地位置: 南屯區南屯路2段430巷<br>承造人: 萬代福營造<br>工地聯絡人: 游先生 0928-653762<br>抽水迄日: 110.6.30<br>工地預估每日可提供之用水量(CMD): 7700<br>水質檢驗良好: 否<br>工地旁地址: 台中市南屯區文心路一段23-5號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>30.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>南屯區南屯路2段430巷</value>
+          </Data>
+          <Data name="承造人">
+            <value>萬代福營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>游先生 0928-653762</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.6.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>7700.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市南屯區文心路一段23-5號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>106-1563</name>
+        <address>台中市南屯區文心南路259號</address>
+        <description><![CDATA[序號: 31<br>工地位置: 南屯區文心南路/文心南五路口<br>承造人: 齊裕營造<br>工地聯絡人: 蔡先生 0917-513379<br>抽水迄日: 110.12.31<br>工地預估每日可提供之用水量(CMD): 18000<br>水質檢驗良好: 否<br>工地旁地址: 台中市南屯區文心南路259號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>31.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>南屯區文心南路/文心南五路口</value>
+          </Data>
+          <Data name="承造人">
+            <value>齊裕營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>蔡先生 0917-513379</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.12.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>18000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市南屯區文心南路259號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-251</name>
+        <address>南屯區大墩路684號</address>
+        <description><![CDATA[序號: 32<br>工地位置: 南屯區大墩路684號<br>承造人: 冠鈞營造<br>工地聯絡人: 蘇先生 0919-835438<br>抽水迄日: 110.12.31<br>工地預估每日可提供之用水量(CMD): 13000<br>水質檢驗良好: 否<br>工地旁地址: 南屯區大墩路684號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>32.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>南屯區大墩路684號</value>
+          </Data>
+          <Data name="承造人">
+            <value>冠鈞營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>蘇先生 0919-835438</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.12.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>13000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>南屯區大墩路684號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>102-1321</name>
+        <address>台中市南屯區文心路一段215號</address>
+        <description><![CDATA[序號: 33<br>工地位置: 南屯區大墩7街/文心路1段口<br>承造人: 薰漢營造<br>工地聯絡人: 陳先生 0912-042203<br>抽水迄日: 110.5.31<br>工地預估每日可提供之用水量(CMD): 25000<br>水質檢驗良好: 否<br>工地旁地址: 台中市南屯區文心路一段215號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>33.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>南屯區大墩7街/文心路1段口</value>
+          </Data>
+          <Data name="承造人">
+            <value>薰漢營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>陳先生 0912-042203</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.5.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>25000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市南屯區文心路一段215號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>110-20</name>
+        <address>台中市南屯區黎明路一段166巷27號</address>
+        <description><![CDATA[序號: 34<br>工地位置: 南屯區楓樹南街/風樹西街口<br>承造人: 麗明營造<br>工地聯絡人: 嚴先生 0913-266256<br>抽水迄日: 110.11.16<br>工地預估每日可提供之用水量(CMD): 20000<br>水質檢驗良好: 否<br>工地旁地址: 台中市南屯區黎明路一段166巷27號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>34.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>南屯區楓樹南街/風樹西街口</value>
+          </Data>
+          <Data name="承造人">
+            <value>麗明營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>嚴先生 0913-266256</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.11.16</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>20000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市南屯區黎明路一段166巷27號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>108-1724</name>
+        <address>台中市中區台12線526號</address>
+        <description><![CDATA[序號: 35<br>工地位置: 中區台灣大道/興民街口<br>承造人: 立穩營造<br>工地聯絡人: 簡先生 0977-172192<br>抽水迄日: 110.5.31<br>工地預估每日可提供之用水量(CMD): 14000<br>水質檢驗良好: 否<br>工地旁地址: 台中市中區台12線526號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>35.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>中區台灣大道/興民街口</value>
+          </Data>
+          <Data name="承造人">
+            <value>立穩營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>簡先生 0977-172192</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.5.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>14000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市中區台12線526號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>108-2613</name>
+        <address>台中市西區博館一街100-236</address>
+        <description><![CDATA[序號: 36<br>工地位置: 西區博館1街/西屯路1段167巷口<br>承造人: 國城營造<br>工地聯絡人: 王先生 0910-277927<br>抽水迄日: 111.5.12<br>工地預估每日可提供之用水量(CMD): 32000<br>水質檢驗良好: 否<br>工地旁地址: 台中市西區博館一街100-236]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>36.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>西區博館1街/西屯路1段167巷口</value>
+          </Data>
+          <Data name="承造人">
+            <value>國城營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>王先生 0910-277927</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>111.5.12</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>32000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市西區博館一街100-236</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>104-2171</name>
+        <address>台中市西區柳川東路二段85</address>
+        <description><![CDATA[序號: 37<br>工地位置: 西區柳川東路/五權路口<br>承造人: 薰漢營造<br>工地聯絡人: 李先生 0937-251106<br>抽水迄日: 110.6.30<br>工地預估每日可提供之用水量(CMD): 22000<br>水質檢驗良好: 否<br>工地旁地址: 台中市西區柳川東路二段85]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>37.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>西區柳川東路/五權路口</value>
+          </Data>
+          <Data name="承造人">
+            <value>薰漢營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>李先生 0937-251106</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.6.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>22000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市西區柳川東路二段85</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-1281</name>
+        <address>台中市豐原區南陽路158巷22-42</address>
+        <description><![CDATA[序號: 39<br>工地位置: 豐原區南陽路158巷<br>承造人: 冠華營造<br>工地聯絡人: 謝先生 0933-551398<br>抽水迄日: 110.5.31<br>工地預估每日可提供之用水量(CMD): 14000<br>水質檢驗良好: 否<br>工地旁地址: 台中市豐原區南陽路158巷22-42]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>39.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>豐原區南陽路158巷</value>
+          </Data>
+          <Data name="承造人">
+            <value>冠華營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>謝先生 0933-551398</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.5.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>14000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市豐原區南陽路158巷22-42</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-1883</name>
+        <address>台中市梧棲區自強路一段509號</address>
+        <description><![CDATA[序號: 41<br>工地位置: 梧棲區自強路/港埠路1段口<br>承造人: 金居營造<br>工地聯絡人: 王先生 0938-703370<br>抽水迄日: 110.5.31<br>工地預估每日可提供之用水量(CMD): 2500<br>水質檢驗良好: 否<br>工地旁地址: 台中市梧棲區自強路一段509號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>41.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>梧棲區自強路/港埠路1段口</value>
+          </Data>
+          <Data name="承造人">
+            <value>金居營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>王先生 0938-703370</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.5.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>2500.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市梧棲區自強路一段509號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>108-2131</name>
+        <address>梧棲區大仁路,臨港路</address>
+        <description><![CDATA[序號: 42<br>工地位置: 梧棲區大仁路/臨港路口<br>承造人: 聯恆營造<br>工地聯絡人: 楊先生 0921-737506<br>抽水迄日: 110.12.31<br>工地預估每日可提供之用水量(CMD): 3800<br>水質檢驗良好: 否<br>工地旁地址: 梧棲區大仁路,臨港路]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>42.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>梧棲區大仁路/臨港路口</value>
+          </Data>
+          <Data name="承造人">
+            <value>聯恆營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>楊先生 0921-737506</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.12.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>3800.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>梧棲區大仁路,臨港路</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>108-2215</name>
+        <address>台中市梧棲區四維路85巷28號</address>
+        <description><![CDATA[序號: 43<br>工地位置: 梧棲區四維中路224巷/大仁路311巷口<br>承造人: 協侑營造<br>工地聯絡人: 鄭先生 0921-606851<br>抽水迄日: 110.7.21<br>工地預估每日可提供之用水量(CMD): 1000<br>水質檢驗良好: 否<br>工地旁地址: 台中市梧棲區四維路85巷28號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>43.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>梧棲區四維中路224巷/大仁路311巷口</value>
+          </Data>
+          <Data name="承造人">
+            <value>協侑營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>鄭先生 0921-606851</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.7.21</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>1000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市梧棲區四維路85巷28號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>108-2071</name>
+        <address>台中市梧棲區八德路97號</address>
+        <description><![CDATA[序號: 44<br>工地位置: 梧棲區八德路1段/四維中路口<br>承造人: 國城營造<br>工地聯絡人: 曾先生 0972-614124<br>抽水迄日: 110.7.31<br>工地預估每日可提供之用水量(CMD): 2500<br>水質檢驗良好: 否<br>工地旁地址: 台中市梧棲區八德路97號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>44.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>梧棲區八德路1段/四維中路口</value>
+          </Data>
+          <Data name="承造人">
+            <value>國城營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>曾先生 0972-614124</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.7.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>2500.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市梧棲區八德路97號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-361</name>
+        <address>台中市梧棲區立德街134巷588號</address>
+        <description><![CDATA[序號: 45<br>工地位置: 梧棲區立德街/立德街134巷口<br>承造人: 德同營造<br>工地聯絡人: 曾先生 0937-260040<br>抽水迄日: 110.4.30<br>工地預估每日可提供之用水量(CMD): 4000<br>水質檢驗良好: 否<br>工地旁地址: 台中市梧棲區立德街134巷588號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>45.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>梧棲區立德街/立德街134巷口</value>
+          </Data>
+          <Data name="承造人">
+            <value>德同營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>曾先生 0937-260040</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.4.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>4000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市梧棲區立德街134巷588號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>108-2084</name>
+        <address>台中市梧棲區四維中路277-269</address>
+        <description><![CDATA[序號: 46<br>工地位置: 梧棲區四維中路/大智路2段398巷口<br>承造人: 協侑營造<br>工地聯絡人: 王先生 0939-166176<br>抽水迄日: 110.7.31<br>工地預估每日可提供之用水量(CMD): 1100<br>水質檢驗良好: 否<br>工地旁地址: 台中市梧棲區四維中路277-269]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>46.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>梧棲區四維中路/大智路2段398巷口</value>
+          </Data>
+          <Data name="承造人">
+            <value>協侑營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>王先生 0939-166176</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.7.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>1100.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市梧棲區四維中路277-269</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-1090</name>
+        <address>台中市梧棲區四維東路149巷17</address>
+        <description><![CDATA[序號: 47<br>工地位置: 梧棲區四維東路/四維東路149巷<br>承造人: 萬代福營造<br>工地聯絡人: 林先生 0972-066593<br>抽水迄日: 111.1.31<br>工地預估每日可提供之用水量(CMD): 8000<br>水質檢驗良好: 否<br>工地旁地址: 台中市梧棲區四維東路149巷17]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>47.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>梧棲區四維東路/四維東路149巷</value>
+          </Data>
+          <Data name="承造人">
+            <value>萬代福營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>林先生 0972-066593</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>111.1.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>8000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市梧棲區四維東路149巷17</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>107-2495</name>
+        <address>龍井區沙田路6段317號</address>
+        <description><![CDATA[序號: 48<br>工地位置: 龍井區沙田路6段317號旁<br>承造人: 成中恆營造<br>工地聯絡人: 陳先生 0981-776577<br>抽水迄日: 110.6.30<br>工地預估每日可提供之用水量(CMD): 1800<br>水質檢驗良好: 否<br>工地旁地址: 龍井區沙田路6段317號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>48.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>龍井區沙田路6段317號旁</value>
+          </Data>
+          <Data name="承造人">
+            <value>成中恆營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>陳先生 0981-776577</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.6.30</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>1800.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>龍井區沙田路6段317號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>108-2073</name>
+        <address>龍井區龍門路49號</address>
+        <description><![CDATA[序號: 49<br>工地位置: 龍井區龍門路49號旁<br>承造人: 互益營造<br>工地聯絡人: 王先生 0918-819079<br>抽水迄日: 110.5.31<br>工地預估每日可提供之用水量(CMD): 2500<br>水質檢驗良好: 否<br>工地旁地址: 龍井區龍門路49號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>49.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>龍井區龍門路49號旁</value>
+          </Data>
+          <Data name="承造人">
+            <value>互益營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>王先生 0918-819079</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.5.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>2500.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>龍井區龍門路49號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-1957</name>
+        <address>台中市龍井區沙田路五段315巷</address>
+        <description><![CDATA[序號: 50<br>工地位置: 龍井區沙田路5段315巷口<br>承造人: 鍇越營造<br>工地聯絡人: 王先生 0933-403244<br>抽水迄日: 110.7.31<br>工地預估每日可提供之用水量(CMD): 50000<br>水質檢驗良好: 否<br>工地旁地址: 台中市龍井區沙田路五段315巷]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>50.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>龍井區沙田路5段315巷口</value>
+          </Data>
+          <Data name="承造人">
+            <value>鍇越營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>王先生 0933-403244</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.7.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>50000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市龍井區沙田路五段315巷</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-135</name>
+        <address>台中市沙鹿區中山路657-1號</address>
+        <description><![CDATA[序號: 51<br>工地位置: 沙鹿區中山路/中山路659巷口<br>承造人: 盛傑營造<br>工地聯絡人: 謝先生 0927-211178<br>抽水迄日: 110.12.31<br>工地預估每日可提供之用水量(CMD): 8000<br>水質檢驗良好: 否<br>工地旁地址: 台中市沙鹿區中山路657-1號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>51.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>沙鹿區中山路/中山路659巷口</value>
+          </Data>
+          <Data name="承造人">
+            <value>盛傑營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>謝先生 0927-211178</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.12.31</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>8000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>台中市沙鹿區中山路657-1號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+      <Placemark>
+        <name>109-1180</name>
+        <address>烏日區中山路3段422號</address>
+        <description><![CDATA[序號: 52<br>工地位置: 烏日區中山路3段422號旁<br>承造人: 頌恩營造<br>工地聯絡人: 蕭先生 0928-631135<br>抽水迄日: 110.11.14<br>工地預估每日可提供之用水量(CMD): 60000<br>水質檢驗良好: 否<br>工地旁地址: 烏日區中山路3段422號]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="序號">
+            <value>52.0</value>
+          </Data>
+          <Data name="工地位置">
+            <value>烏日區中山路3段422號旁</value>
+          </Data>
+          <Data name="承造人">
+            <value>頌恩營造</value>
+          </Data>
+          <Data name="工地聯絡人">
+            <value>蕭先生 0928-631135</value>
+          </Data>
+          <Data name="抽水迄日">
+            <value>110.11.14</value>
+          </Data>
+          <Data name="工地預估每日可提供之用水量(CMD)">
+            <value>60000.0</value>
+          </Data>
+          <Data name="水質檢驗良好">
+            <value>否</value>
+          </Data>
+          <Data name="工地旁地址">
+            <value>烏日區中山路3段422號</value>
+          </Data>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

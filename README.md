@@ -20,5 +20,8 @@ npm run build
 npm run lint
 ```
 
+### Others
+[Well Image](https://www.flaticon.com/free-icon/buildings_842868?term=well&page=1&position=41&page=1&position=41&related_id=842868&origin=search)
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
